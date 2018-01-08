@@ -1,0 +1,11 @@
+Library/*
+ProjectSettings/*
+TileMapFramework*
+UnityPackageManager*
+.vs/*
+
+Assets/Blender*
+Assets/Prefabs*
+Assets/Scenes*
+Assets/Standard Assets*
+Assets/Textures*
